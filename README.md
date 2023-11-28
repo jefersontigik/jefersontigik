@@ -12,6 +12,7 @@ Sou entusiasta de *Programação Orientada à Objeto*.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 3. Banco de Dados: _MySQL_, _**SQL Server**_, **PostGres**.
 
 ## Projetos em destaque
